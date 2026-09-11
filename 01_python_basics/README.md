@@ -1,1 +1,3 @@
-python ai agent
+# Python Basics
+
+Изучение Python, необходимого для создания AI-агентов.
