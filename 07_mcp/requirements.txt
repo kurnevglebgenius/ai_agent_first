@@ -1,0 +1,1 @@
+-r ../03_first_agent/requirements.txt
